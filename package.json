@@ -1,12 +1,12 @@
 {
   "name": "sass-social-icons",
   "description": "Social icon font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/sass-social-icons.git"
+    "url": "https://github.com/ellipticaljs/sass-social-icons.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
