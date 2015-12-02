@@ -1,7 +1,7 @@
 {
   "name": "sass-social-icons",
   "description": "Social icon font",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "main": "dist/social.css",
   "authors": [
     "S. Francis"
